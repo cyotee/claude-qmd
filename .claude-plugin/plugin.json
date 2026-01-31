@@ -1,0 +1,15 @@
+{
+  "name": "qmd",
+  "version": "1.0.0",
+  "description": "Local semantic search for documentation, protocol skills, and project knowledge using QMD - Query Markdown Documents",
+  "author": {
+    "name": "cyotee",
+    "upstream": "Tobi Lutke"
+  },
+  "repository": "https://github.com/cyotee/claude-qmd",
+  "license": "MIT",
+  "keywords": ["search", "semantic", "documentation", "rag", "mcp", "embeddings", "local"],
+  "commands": "./commands/",
+  "agents": ["./agents/indexer.md"],
+  "skills": "./skills/"
+}
