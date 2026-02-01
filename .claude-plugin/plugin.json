@@ -1,6 +1,6 @@
 {
   "name": "qmd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Local semantic search for documentation, protocol skills, and project knowledge using QMD - Query Markdown Documents",
   "author": {
     "name": "cyotee",

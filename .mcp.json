@@ -1,8 +1,6 @@
 {
-  "mcpServers": {
-    "qmd": {
-      "command": "qmd",
-      "args": ["mcp"]
-    }
+  "qmd": {
+    "command": "bash",
+    "args": ["-c", "\"$HOME/.bun/bin/qmd\" mcp 2>/dev/null || qmd mcp"]
   }
 }
